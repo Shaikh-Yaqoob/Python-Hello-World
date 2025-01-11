@@ -32,4 +32,17 @@ Welcome to the **COVID-19 Data Explorer** – an interactive and professional to
 │   └── covid-data.csv      # Sample COVID-19 dataset  
 ├── 📜 app.py               # Main application script  
 ├── 📜 requirements.txt     # Python dependencies  
-├── 📜 README.md            # Project documentation  
+├── 📜 README.md            # Project documentation
+
+---
+## 🔧 Setup and Installation  
+
+Follow these steps to set up the COVID-19 Data Explorer on your local machine:  
+
+1. **Clone the Repository and Install Dependencies**  
+   Clone the repository to your local system, navigate to the project folder, and install the required dependencies:  
+   ```bash
+   git clone https://github.com/your-username/covid-data-explorer.git
+   cd covid_data_explorer
+   pip install -r requirements.txt
+
