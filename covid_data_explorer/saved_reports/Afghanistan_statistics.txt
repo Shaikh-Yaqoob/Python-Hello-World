@@ -1,0 +1,5 @@
+Total Cases: 2085794642450
+Total Deaths: 24989420187
+Global Average New Cases: 9336.96
+Global Average New Deaths: 83.17
+Total Vaccinations: 35412072372399

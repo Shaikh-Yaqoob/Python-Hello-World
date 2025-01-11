@@ -1,0 +1,11 @@
+streamlit==1.25.0       # For building the web app
+pandas==2.1.1           # For data processing
+numpy==1.26.0           # For numerical computations
+plotly==5.15.0          # For interactive data visualizations
+matplotlib==3.8.0       # For static plots (if needed)
+scipy==1.11.3           # For advanced statistical analysis
+seaborn==0.13.0         # For additional visualizations
+openpyxl==3.1.2         # If Excel files need to be supported
+altair==5.0.0           # For interactive charts (optional)
+python-decouple==3.8    # To manage environment variables (if needed)
+watchdog==3.0.0         # Streamlit file watcher dependency
